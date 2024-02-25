@@ -45,6 +45,15 @@ dependencies {
     implementation ("com.github.bumptech.glide:glide:4.16.0")
     implementation ("com.makeramen:roundedimageview:2.3.0")
     implementation ("com.github.mancj:MaterialSearchBar:0.8.5")
+    implementation ("com.google.android.material:material:1.5.0")
+
+    // Circle Indicator (To fix the xml preview "Missing classes" error)
+    implementation ("me.relex:circleindicator:2.1.6")
+
+    implementation ("org.imaginativeworld.whynotimagecarousel:whynotimagecarousel:2.1.0")
+
+    //volley api send
+    implementation("com.android.volley:volley:1.2.1")
 
 
 }
